@@ -1,0 +1,6 @@
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe.config
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.pdb
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 3. Matrix shuffling\obj\Debug\Problem 3. Matrix shuffling.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.pdb

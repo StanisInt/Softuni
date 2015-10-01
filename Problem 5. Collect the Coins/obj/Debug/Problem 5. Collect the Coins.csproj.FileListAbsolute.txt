@@ -1,0 +1,6 @@
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe.config
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 5. Collect the Coins\bin\Debug\Problem_5.Collect_the_Coins.pdb
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 5. Collect the Coins\obj\Debug\Problem 5. Collect the Coins.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 5. Collect the Coins\obj\Debug\Problem_5.Collect_the_Coins.pdb

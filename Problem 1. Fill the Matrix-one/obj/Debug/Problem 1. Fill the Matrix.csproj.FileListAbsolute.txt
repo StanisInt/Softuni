@@ -1,0 +1,15 @@
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 1. Fill the Matrix-one\bin\Debug\Problem_1.Fill_the_Matrix_one.exe.config
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 1. Fill the Matrix-one\bin\Debug\Problem_1.Fill_the_Matrix_one.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 1. Fill the Matrix-one\bin\Debug\Problem_1.Fill_the_Matrix_one.pdb
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 1. Fill the Matrix-one\obj\Debug\Problem 1. Fill the Matrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 1. Fill the Matrix-one\obj\Debug\Problem_1.Fill_the_Matrix_one.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 1. Fill the Matrix-one\obj\Debug\Problem_1.Fill_the_Matrix_one.pdb
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 1. Fill the Matrix-one\bin\Debug\Problem_1.Fill_the_Matrix_one.exe.config
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 1. Fill the Matrix-one\obj\Debug\Problem_1.Fill_the_Matrix_one.exe
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 1. Fill the Matrix-one\obj\Debug\Problem_1.Fill_the_Matrix_one.pdb
+E:\Softuni C# Advanced\2-MultidimensionalArray\Problem 1. Fill the Matrix-one\bin\Debug\Problem_1.Fill_the_Matrix_one.exe.config
+E:\Softuni C# Advanced\2-MultidimensionalArray\Problem 1. Fill the Matrix-one\obj\Debug\Problem_1.Fill_the_Matrix_one.exe
+E:\Softuni C# Advanced\2-MultidimensionalArray\Problem 1. Fill the Matrix-one\obj\Debug\Problem_1.Fill_the_Matrix_one.pdb
+E:\Softuni C# Advanced\2-MultidimensionalArray\Problem 1. Fill the Matrix-one\bin\Debug\Problem_1.Fill_the_Matrix_one.exe
+E:\Softuni C# Advanced\2-MultidimensionalArray\Problem 1. Fill the Matrix-one\bin\Debug\Problem_1.Fill_the_Matrix_one.pdb
+E:\Softuni C# Advanced\2-MultidimensionalArray\Problem 1. Fill the Matrix-one\obj\Debug\Problem 1. Fill the Matrix.csprojResolveAssemblyReference.cache

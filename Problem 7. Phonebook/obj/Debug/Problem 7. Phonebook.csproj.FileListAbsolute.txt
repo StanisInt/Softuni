@@ -1,0 +1,6 @@
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe.config
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 7. Phonebook\bin\Debug\Problem_7.Phonebook.pdb
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 7. Phonebook\obj\Debug\Problem 7. Phonebook.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 7. Phonebook\obj\Debug\Problem_7.Phonebook.pdb

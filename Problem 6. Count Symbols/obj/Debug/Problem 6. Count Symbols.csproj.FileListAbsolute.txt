@@ -1,0 +1,6 @@
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 6. Count Symbols\bin\Debug\Problem_6.Count_Symbols.exe.config
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 6. Count Symbols\bin\Debug\Problem_6.Count_Symbols.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 6. Count Symbols\bin\Debug\Problem_6.Count_Symbols.pdb
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 6. Count Symbols\obj\Debug\Problem 6. Count Symbols.csprojResolveAssemblyReference.cache
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 6. Count Symbols\obj\Debug\Problem_6.Count_Symbols.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 6. Count Symbols\obj\Debug\Problem_6.Count_Symbols.pdb

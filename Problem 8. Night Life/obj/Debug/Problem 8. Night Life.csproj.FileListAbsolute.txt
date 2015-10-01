@@ -1,0 +1,11 @@
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.exe.config
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.pdb
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 8. Night Life\obj\Debug\Problem_8.Night_Life.exe
+E:\SoftUni\Homework-Mnogomernimasivi-and-shit\Problem 8. Night Life\obj\Debug\Problem_8.Night_Life.pdb
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.exe.config
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 8. Night Life\obj\Debug\Problem_8.Night_Life.exe
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 8. Night Life\obj\Debug\Problem_8.Night_Life.pdb
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.exe
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 8. Night Life\bin\Debug\Problem_8.Night_Life.pdb
+E:\SoftUni\Homeworks\Mnogomerni masivi\Problem 8. Night Life\obj\Debug\Problem 8. Night Life.csprojResolveAssemblyReference.cache
